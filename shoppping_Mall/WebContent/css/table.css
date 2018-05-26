@@ -1,0 +1,13 @@
+@charset "EUC-KR";
+
+table {
+	border-size : 50%;
+	width: 90%;
+	height : 80%; 
+	margin:0;
+	padding: 0;
+	background: blue;
+	color: white;
+	font: 13px Arial, Verdana, Tahoma, sans-serif;
+	line-height: 17px;
+}
